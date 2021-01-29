@@ -87,6 +87,7 @@ body {
     background-image: url(/pic1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 20px;
 }
 
 .footer-div {
